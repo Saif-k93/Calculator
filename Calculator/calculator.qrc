@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/asterisk.png</file>
+        <file>img/caret.png</file>
+        <file>img/dot.png</file>
+        <file>img/equal.png</file>
+        <file>img/minus.png</file>
+        <file>img/multiplication.png</file>
+        <file>img/number-1.png</file>
+        <file>img/number-2.png</file>
+        <file>img/number-3.png</file>
+        <file>img/number-4.png</file>
+        <file>img/number-5.png</file>
+        <file>img/number-6.png</file>
+        <file>img/number-7.png</file>
+        <file>img/number-9.png</file>
+        <file>img/number-10.png</file>
+        <file>img/number-eight.png</file>
+        <file>img/plus-sign.png</file>
+        <file>img/replay.png</file>
+        <file>img/restore.png</file>
+        <file>img/return.png</file>
+        <file>img/slash.png</file>
+        <file>img/zero.png</file>
+        <file>img/learning.gif</file>
+        <file>img/mudulus.png</file>
+        <file>img/plus_minus.png</file>
+        <file>img/attention.png</file>
+        <file>img/menu.png</file>
+        <file>img/calculator.ico</file>
+    </qresource>
+</RCC>
